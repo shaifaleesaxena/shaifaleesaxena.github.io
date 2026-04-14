@@ -7,58 +7,42 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **Ph.D. in Electrical and Computer Engineering**, University of New Mexico, 2024-present
+- **B.Tech. in Aerospace Engineering**, Indian Institute of Space Science and Technology, 2014-2018
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research interests
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Reinforcement learning for robotics and control
+- Robust and adaptive control
+- Robotic manipulation under distribution shift
+- Learning for time-varying systems
+- Estimation and system identification
+- Aerospace and autonomous systems
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **PhD Student**, University of New Mexico
+- **Flight Control Development Engineer**, Airbus India
+- **Senior Executive**, Tata Advanced Systems Limited
+
+## Selected technical areas
+
+- Reinforcement learning
+- Robust and adaptive control
+- State estimation and Kalman filtering
+- System identification
+- 6-DOF modeling and simulation
+- Flight-control systems
+- Python, MATLAB/Simulink, C/C++, Git, LaTeX
+
+## Publications
+
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
+## Honors
+
+- Second Best Paper Award, 2nd International Conference on Structural Integrity (ICONS), IIT Madras, 2018
