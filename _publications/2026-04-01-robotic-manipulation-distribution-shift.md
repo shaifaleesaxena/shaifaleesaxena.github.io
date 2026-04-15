@@ -2,7 +2,7 @@
 title: "Deep Reinforcement Learning for Robotic Manipulation under Distribution Shift with Bounded Extremum Seeking"
 collection: publications
 category: conferences
-permalink: /publication/2026-04-01-robotic-manipulation-distribution-shift
+permalink: /publications/2026-04-01-robotic-manipulation-distribution-shift/
 excerpt: "Improving robotic manipulation performance under distribution shift by combining reinforcement learning with bounded extremum seeking."
 date: 2026-04-01
 venue: "Preprint / under review"
