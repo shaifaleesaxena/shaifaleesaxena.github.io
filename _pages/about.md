@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in **Electrical and Computer Engineering at the University of New Mexico**, where I work on problems at the intersection of **robotics, reinforcement learning, and control**. My research focuses on robust learning-based control for time-varying systems, robotic manipulation, and representation learning for decision-making in robotics.
+I am a Graduate Research Assistant at Los Alamos National Laboratory, where I work on reinforcement learning for accelerator tuning and control in the Adaptive Machine Learning group. I am also a PhD student in Electrical and Computer Engineering at the University of New Mexico, where my research focuses on robotics, reinforcement learning, and control.
 
-I currently work as a **Research Assistant at UNM** on hybrid control methods for space robotics with **Dr. Rafael Fierro**. I also work as a **Graduate Research Assistant at Los Alamos National Laboratory** in the Adaptive Machine Learning group (AOT-IC), where I study reinforcement learning for accelerator tuning and control with **Dr. Alexander Scheinker**.
+My current work spans robust deep reinforcement learning for time-varying systems, robotic manipulation, representation learning for control, and space robotics. At LANL, I am working on learning-based methods for accelerator tuning and control. At UNM, I work on robotics and reinforcement learning problems including manipulation, latent-space control, and failure detection and repair for space systems.
 
-Before starting my PhD, I worked in flight dynamics and control in industry, including control-system development at **Airbus** and **Tata Advanced Systems**. That experience continues to shape my research interests: I care about methods that are principled, robust, and usable on real systems.
+Before starting my PhD, I worked in aerospace and autonomous systems engineering at Airbus and Tata Advanced Systems, where I developed flight-control simulation packages, UAV dynamics and control models, state-estimation algorithms, and control logic for real systems.
 
 ## Research interests
 
