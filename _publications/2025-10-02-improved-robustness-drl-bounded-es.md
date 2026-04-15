@@ -2,7 +2,7 @@
 title: "Improved Robustness of Deep Reinforcement Learning for Control of Time-Varying Systems by Bounded Extremum Seeking"
 collection: publications
 category: conferences
-permalink: /publication/2025-10-02-improved-robustness-drl-bounded-es
+permalink: /publications/2025-10-02-improved-robustness-drl-bounded-es
 excerpt: "A hybrid reinforcement learning and bounded extremum seeking framework for improving robustness in nonlinear time-varying systems."
 date: 2025-10-02
 venue: "American Control Conference (ACC 2026)"
