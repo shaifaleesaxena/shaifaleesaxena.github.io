@@ -9,7 +9,7 @@ baseurl: ""
 repository: "shaifaleesaxena/shaifaleesaxena.github.io"
 
 author:
-  avatar: "profile.svg"
+  avatar: "profile.jpg"
   name: "Shaifalee Saxena"
   bio: "Second-year PhD student working on robotics, learning, and control."
   location: "Albuquerque, New Mexico"
