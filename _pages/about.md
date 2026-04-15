@@ -6,10 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a PhD student in Electrical and Computer Engineering at the University of New Mexico, working on robotics, reinforcement learning, and control. My current research focuses on robust deep reinforcement learning for time-varying systems, robotic manipulation, and representation learning for control, with projects spanning both UNM and Los Alamos National Laboratory.
 
-I am a second-year PhD student working at the intersection of **robotics, reinforcement learning, and control**. My recent work focuses on robust decision-making under distribution shift, adaptive control for time-varying systems, and robotic manipulation.
+I work on problems including reinforcement learning for accelerator tuning, multi-task robotic manipulation, latent-space control using autoencoders, and space robotics for failure detection and repair. I am advised by Dr. Rafael Fierro at UNM and collaborate with Dr. Alexander Scheinker at LANL.
 
-Before beginning my PhD, I worked in aerospace and autonomous systems engineering, including flight-control simulation and control development in industry. That background still shapes how I think about research: I am especially interested in methods that are both **theoretically grounded** and **deployable on real systems**.
+Before starting my PhD, I worked in aerospace and autonomous systems engineering at Airbus and Tata Advanced Systems, where I developed flight-control simulation packages, UAV dynamics and control models, state-estimation algorithms, and control logic for real systems.
 
 ## Research interests
 
