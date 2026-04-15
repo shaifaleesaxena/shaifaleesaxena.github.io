@@ -35,7 +35,7 @@ I build autoencoder-based pipelines that compress high-dimensional visual observ
 ### Space robotics
 I work on failure detection and recovery for solar panel deployment, including vision-based failure identification and learning-based corrective control.
 
-## Selected publications
+## Publications
 
 1. **Improved Robustness of Deep Reinforcement Learning for Control of Time-Varying Systems by Bounded Extremum Seeking**  
    Shaifalee Saxena, Alan Williams, Rafael Fierro, Alexander Scheinker.  
