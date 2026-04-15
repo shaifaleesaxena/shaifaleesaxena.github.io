@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Graduate Research Assistant at Los Alamos National Laboratory, where I work on reinforcement learning for accelerator tuning and control in the Adaptive Machine Learning group. I am also a PhD student in Electrical and Computer Engineering at the University of New Mexico, where my research focuses on robotics, reinforcement learning, and control.
+I am a Graduate Research Assistant at Los Alamos National Laboratory, working on reinforcement learning for accelerator tuning and control in the Adaptive Machine Learning group. I am also a PhD student in Electrical and Computer Engineering at the University of New Mexico, where my research focuses on robotics, reinforcement learning, and control.
 
-My current work spans robust deep reinforcement learning for time-varying systems, robotic manipulation, representation learning for control, and space robotics. At LANL, I am working on learning-based methods for accelerator tuning and control. At UNM, I work on robotics and reinforcement learning problems including manipulation, latent-space control, and failure detection and repair for space systems.
-
-Before starting my PhD, I worked in aerospace and autonomous systems engineering at Airbus and Tata Advanced Systems, where I developed flight-control simulation packages, UAV dynamics and control models, state-estimation algorithms, and control logic for real systems.
+My current work spans robust deep reinforcement learning for time-varying systems, robotic manipulation, representation learning for control, and space robotics. It includes learning-based methods for accelerator tuning and control, as well as robotics and reinforcement learning problems such as manipulation, latent-space control, and failure detection and repair for space systems.
 
 ## Research interests
 
