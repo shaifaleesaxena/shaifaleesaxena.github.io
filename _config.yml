@@ -3,7 +3,7 @@ site_theme: "default"
 title: "Shaifalee Saxena"
 title_separator: "-"
 name: &name "Shaifalee Saxena"
-description: &description "Second-year PhD student working on robotics, reinforcement learning, and control."
+description: &description "PhD student in Electrical and Computer Engineering at the University of New Mexico working on robotics, reinforcement learning, and control."
 url: "https://shaifaleesaxena.github.io"
 baseurl: ""
 repository: "shaifaleesaxena/shaifaleesaxena.github.io"
@@ -11,11 +11,11 @@ repository: "shaifaleesaxena/shaifaleesaxena.github.io"
 author:
   avatar: "profile.jpg"
   name: "Shaifalee Saxena"
-  bio: "Second-year PhD student working on robotics, learning, and control."
+  bio: "PhD student in ECE at UNM working on robotics, reinforcement learning, and control."
   location: "Albuquerque, New Mexico"
   employer: "University of New Mexico"
   uri:
-  email:
+  email: "shaifalees@lanl.gov"
   googlescholar: "https://scholar.google.com/citations?user=AimLmAcAAAAJ&hl=en"
   arxiv:
   orcid:
