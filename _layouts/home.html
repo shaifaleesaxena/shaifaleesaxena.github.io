@@ -1,0 +1,35 @@
+---
+layout: compress
+---
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+  <body class="modern-site">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="shell nav-wrap">
+        <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Shaifalee Saxena, home">SS</a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav"><span>Menu</span></button>
+        <nav id="site-nav" aria-label="Primary navigation">
+          <a href="{{ '/#about' | relative_url }}">About</a>
+          <a href="{{ '/#research' | relative_url }}">Research</a>
+          <a href="{{ '/#news' | relative_url }}">News</a>
+          <a href="{{ '/publications/' | relative_url }}">Publications</a>
+          <a href="{{ '/#service' | relative_url }}">Service</a>
+          <a href="{{ '/files/Shaifalee_Saxena_CV_030426.pdf' | relative_url }}">CV</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main">{{ content }}</main>
+    <footer class="site-footer">
+      <div class="shell footer-inner">
+        <p>&copy; {{ site.time | date: '%Y' }} Shaifalee Saxena</p>
+        <p><a href="https://github.com/shaifaleesaxena">GitHub</a> · <a href="https://scholar.google.com/citations?user=AimLmAcAAAAJ&hl=en">Scholar</a> · Updated {{ site.time | date: '%B %Y' }}</p>
+      </div>
+    </footer>
+    <script src="{{ '/assets/js/site.js' | relative_url }}" defer></script>
+  </body>
+</html>

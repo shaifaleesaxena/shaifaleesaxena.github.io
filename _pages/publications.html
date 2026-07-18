@@ -1,4 +1,30 @@
---- layout: archive title: "Publications" permalink: /publications/ author_profile: true --- {% include base_path %}
-You can also find my publications on Google Scholar. This page currently highlights my recent research papers and preprints.
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
-{% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
+<section class="archive-hero">
+  <p class="section-kicker">Research output</p>
+  <h1>Publications</h1>
+  <p>Selected work on robust reinforcement learning, adaptive control, robotic manipulation, and learning under distribution shift. The most current citation record is also available on <a href="https://scholar.google.com/citations?user=AimLmAcAAAAJ&amp;hl=en">Google Scholar</a>.</p>
+</section>
+
+<div class="publication-archive">
+  {% for publication in site.data.publications %}
+    <article class="publication" data-topic="{{ publication.topic_slug }}">
+      <div class="pub-meta"><span>{{ publication.year }}</span><span>{{ publication.type }}</span></div>
+      <div>
+        <p class="venue">{{ publication.venue }}</p>
+        <h3>{{ publication.title }}</h3>
+        <p class="authors">{{ publication.authors }}</p>
+        <div class="pub-links">
+          {% if publication.paper %}<a href="{{ publication.paper }}">Paper</a>{% endif %}
+          {% if publication.arxiv %}<a href="{{ publication.arxiv }}">arXiv</a>{% endif %}
+          {% if publication.code %}<a href="{{ publication.code }}">Code</a>{% endif %}
+        </div>
+      </div>
+    </article>
+  {% endfor %}
+</div>
