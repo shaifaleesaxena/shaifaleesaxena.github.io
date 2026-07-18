@@ -73,10 +73,10 @@ redirect_from:
         <a href="https://arxiv.org/abs/2510.02490">Read the ACC 2026 paper <span aria-hidden="true">→</span></a>
       </article>
       <article class="research-card">
-        <p class="card-label">02 · Robotics</p>
-        <h3>Manipulation under distribution shift</h3>
-        <p>OOD-aware policies and online adaptation for robotic manipulation when goals, contacts, observations, or system dynamics differ from training.</p>
-        <a href="https://arxiv.org/abs/2604.01142">Read the ICML RLxF paper <span aria-hidden="true">→</span></a>
+        <p class="card-label">02 · OOD detection</p>
+        <h3>Learning when to trust RL</h3>
+        <p>Mahalanobis-guided latent OOD detection for deciding when a controller should stop using a learned RL policy and switch to robust bounded extremum seeking.</p>
+        <a href="https://arxiv.org/abs/2606.11474">Read the ICML RLxF paper <span aria-hidden="true">→</span></a>
       </article>
       <article class="research-card">
         <p class="card-label">03 · Autonomous systems</p>
@@ -107,7 +107,7 @@ redirect_from:
     <p class="section-kicker">Selected work</p>
     <div class="section-heading publication-heading">
       <div><h2 id="publications-title">Recent publications</h2><p>Learning-based control methods designed for changing, uncertain environments.</p></div>
-      <a class="text-link" href="{{ '/publications/' | relative_url }}">Complete archive <span aria-hidden="true">→</span></a>
+      <a class="text-link" href="https://scholar.google.com/citations?user=AimLmAcAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar <span aria-hidden="true">→</span></a>
     </div>
     <div class="filters" role="group" aria-label="Filter publications by topic">
       <button class="active" type="button" data-filter="all" aria-pressed="true">All</button>

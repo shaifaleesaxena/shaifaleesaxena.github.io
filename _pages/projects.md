@@ -20,10 +20,10 @@ This project studies hybrid learning-and-control methods that combine determinis
 
 [Read the ACC 2026 paper](https://arxiv.org/abs/2510.02490)
 
-### Robotic Manipulation under Distribution Shift
-I develop hybrid RL and extremum-seeking controllers for robotic manipulation under changes in goals, contact conditions, observations, and dynamics. The work includes OOD-aware switching, online adaptation, multi-task policies, and evaluation across push, grasp, and pick-and-place tasks.
+### OOD-Aware Hybrid ES–DRL Control
+This project develops Mahalanobis-guided latent out-of-distribution detection for test-time controller switching in nonlinear time-varying systems. A variational autoencoder learns an in-distribution latent representation, and the resulting OOD score determines when to use fast RL control or switch to robust bounded extremum seeking.
 
-[Read the ICML RLxF Workshop 2026 paper](https://arxiv.org/abs/2604.01142)
+[Read the ICML RLxF Workshop 2026 paper](https://arxiv.org/abs/2606.11474)
 
 ### Vision Representation Learning for RL
 This work builds autoencoder and latent-dynamics pipelines that compress high-dimensional visual observations into compact states for downstream prediction, reinforcement learning, and control. The goal is to improve scalability while preserving task-relevant information.
