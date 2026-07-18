@@ -45,6 +45,8 @@ redirect_from:
           <h3>Positions</h3>
           <p><strong>Graduate Research Assistant</strong><span>Los Alamos National Laboratory · 2025–present</span></p>
           <p><strong>Research Assistant</strong><span>University of New Mexico · 2024–present</span></p>
+          <p><strong>Senior Flight Controls Engineer</strong><span>Airbus · 2021–2024</span></p>
+          <p><strong>Senior Control Systems Engineer</strong><span>Tata Aerospace and Defense · 2018–2021</span></p>
         </div>
         <div>
           <h3>Education</h3>
@@ -118,7 +120,7 @@ redirect_from:
     <div class="publication-list">
       {% for publication in site.data.publications %}
         <article class="publication" data-topic="{{ publication.topic_slug }}">
-          <div class="pub-meta"><span>{{ publication.year }}</span><span>{{ publication.type }}</span></div>
+          <div class="pub-meta"><span>{{ publication.year }}</span></div>
           <div>
             <p class="venue">{{ publication.venue }}</p>
             <h3>{{ publication.title }}</h3>

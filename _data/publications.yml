@@ -9,6 +9,15 @@
   poster: "/files/ICML_RLxF_2026_Poster.pdf"
 
 - year: 2026
+  type: "Preprint"
+  topic: "Robotics"
+  topic_slug: "robotics"
+  title: "Deep Reinforcement Learning for Robotic Manipulation under Distribution Shift with Bounded Extremum Seeking"
+  authors: "Shaifalee Saxena, Rafael Fierro, and Alexander Scheinker"
+  venue: "arXiv preprint"
+  arxiv: "https://arxiv.org/abs/2604.01142"
+
+- year: 2026
   type: "Conference"
   topic: "Reinforcement learning"
   topic_slug: "reinforcement-learning"

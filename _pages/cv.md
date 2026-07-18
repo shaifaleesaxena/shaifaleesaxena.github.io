@@ -50,16 +50,16 @@ Developing vision-based failure detection and corrective control strategies for 
 
 ## Professional Experience
 
-### Airbus Group Pvt Ltd, India
-**Senior Engineer - Control System** | 2021-2024
+### Airbus, India
+**Senior Flight Controls Engineer** | 2021–2024
 
 - Developed Electronic Flight Control System (EFCS) packages for Airbus training simulators.
 - Implemented malfunction triggering logic by understanding aircraft control laws.
 - Conducted validation activities for control and stability performance.
 - Supported technical investigations related to stability and control logic.
 
-### Tata Advanced Systems Ltd, India
-**Senior Executive - Flight Dynamics and Control System** | 2018-2021
+### Tata Aerospace and Defense, India
+**Senior Control Systems Engineer** | 2018–2021
 
 - Built nonlinear 6-DOF aircraft models for autopilot development.
 - Developed Total Energy Control System (TECS) and estimation methods including EKF.
