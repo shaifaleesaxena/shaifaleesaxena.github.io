@@ -37,6 +37,7 @@ redirect_from:
     <div class="about-grid">
       <div class="prose">
         <p>I am a Graduate Research Assistant in the Adaptive Machine Learning group at Los Alamos National Laboratory and a Ph.D. student in Electrical and Computer Engineering at the University of New Mexico.</p>
+        <p>At LANL, I work under the mentorship of <a href="https://alexscheinker.github.io/" target="_blank" rel="noopener noreferrer">Dr. Alexander Scheinker</a>. At UNM, I am advised by <a href="https://marhes.unm.edu/" target="_blank" rel="noopener noreferrer">Dr. Rafael Fierro</a> through the <a href="https://marhes.unm.edu/" target="_blank" rel="noopener noreferrer">MARHES Lab</a> and the <a href="https://agile-mfg.unm.edu/" target="_blank" rel="noopener noreferrer">Agile Manufacturing Lab</a>.</p>
         <p>My research combines reinforcement learning, extremum seeking, robotics, representation learning, and adaptive control. I am particularly interested in controllers that can recognize distribution shift, stop trusting an unreliable learned policy, and adapt safely online.</p>
       </div>
       <div class="mini-columns">
@@ -125,6 +126,7 @@ redirect_from:
             <div class="pub-links">
               {% if publication.paper %}<a href="{{ publication.paper }}">Paper</a>{% endif %}
               {% if publication.arxiv %}<a href="{{ publication.arxiv }}">arXiv</a>{% endif %}
+              {% if publication.poster %}<a href="{{ publication.poster }}">Poster</a>{% endif %}
               {% if publication.code %}<a href="{{ publication.code }}">Code</a>{% endif %}
             </div>
           </div>

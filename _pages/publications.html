@@ -8,7 +8,7 @@ author_profile: true
 <section class="archive-hero">
   <p class="section-kicker">Research output</p>
   <h1>Publications</h1>
-  <p>Selected work on robust reinforcement learning, adaptive control, robotic manipulation, and learning under distribution shift. The most current citation record is also available on <a href="https://scholar.google.com/citations?user=AimLmAcAAAAJ&amp;hl=en">Google Scholar</a>.</p>
+  <p>Selected work on robust reinforcement learning, adaptive control, out-of-distribution detection, and learning under distribution shift. The most current citation record is also available on <a href="https://scholar.google.com/citations?user=AimLmAcAAAAJ&amp;hl=en">Google Scholar</a>.</p>
 </section>
 
 <div class="publication-archive">
@@ -22,6 +22,7 @@ author_profile: true
         <div class="pub-links">
           {% if publication.paper %}<a href="{{ publication.paper }}">Paper</a>{% endif %}
           {% if publication.arxiv %}<a href="{{ publication.arxiv }}">arXiv</a>{% endif %}
+          {% if publication.poster %}<a href="{{ publication.poster }}">Poster</a>{% endif %}
           {% if publication.code %}<a href="{{ publication.code }}">Code</a>{% endif %}
         </div>
       </div>

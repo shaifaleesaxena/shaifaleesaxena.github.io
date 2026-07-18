@@ -1,12 +1,28 @@
+- date: 2026-07-15
+  text: "The ICML RLxF Workshop 2026 poster was presented by my mentor, Dr. Alexander Scheinker, as I was unable to attend in person."
+  url: "/files/ICML_RLxF_2026_Poster.pdf"
+  link: "View poster"
+
 - date: 2026-07-01
   text: "Attending the DL4Sci Summer School."
   url: "https://dl4sci-school.lbl.gov/"
   link: "Summer school"
 
+- date: 2026-06-15
+  text: "Presented a poster at the CVPR CV4Science Workshop 2026."
+  url: "/files/CVPR_CV4Science_2026_Poster.pdf"
+  link: "View poster"
+
+- date: 2026-06-01
+  text: 'Our LANL Innovative Research (IR) proposal, "Agentic Adaptive Robotics for Hazardous Maintenance & Glovebox/Workcell Operations," was accepted.'
+
 - date: 2026-05-01
   text: "Our paper was accepted at the ICML RLxF Workshop 2026."
   url: "https://arxiv.org/abs/2606.11474"
   link: "Paper"
+
+- date: 2026-04-15
+  text: "Our abstract was accepted at the CVPR CV4Science Workshop 2026."
 
 - date: 2026-04-01
   text: "Serving as a reviewer for IROS 2026."
