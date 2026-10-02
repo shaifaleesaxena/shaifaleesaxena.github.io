@@ -123,6 +123,9 @@ redirect_from:
           <div class="pub-meta"><span>{{ publication.year }}</span></div>
           <div>
             <p class="venue">{{ publication.venue }}</p>
+            {% if publication.award %}
+              <span class="award-badge">🏆 {{ publication.award }}</span>
+            {% endif %}
             <h3>{{ publication.title }}</h3>
             <p class="authors">{{ publication.authors }}</p>
             <div class="pub-links">
