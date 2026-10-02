@@ -1,10 +1,31 @@
+- date: 2026-10-01
+  text: "Received a Best Paper Award at the IROS AIM-Ctrl Workshop 2026 for our work on reinforcement learning and adaptive control for robotic manipulation."
+  url: "https://openreview.net/forum?id=tI7SWXHlV8"
+  link: "Paper"
+
+- date: 2026-09-20
+  text: 'Gave an invited talk at CAARI titled "Bridging Deep Reinforcement Learning and Adaptive Feedback for Time-Varying Systems."'
+  url: "https://caari.com/"
+  link: "CAARI"
+
+- date: 2026-09-01
+  text: "Our paper was accepted at the IROS AIM-Ctrl Workshop 2026."
+  url: "https://openreview.net/forum?id=tI7SWXHlV8"
+  link: "Paper"
+
+- date: 2026-08-20
+  text: "Received the LANL Best Student Award."
+
+- date: 2026-08-10
+  text: "Received SPOT Awards from the AOT-IC Group at Los Alamos National Laboratory."
+
 - date: 2026-07-15
   text: "The ICML RLxF Workshop 2026 poster was presented by my mentor, Dr. Alexander Scheinker, as I was unable to attend in person."
   url: "/files/ICML_RLxF_2026_Poster.pdf"
   link: "View poster"
 
 - date: 2026-07-01
-  text: "Attending the DL4Sci Summer School."
+  text: "Attended the DL4Sci Summer School."
   url: "https://dl4sci-school.lbl.gov/"
   link: "Summer school"
 
@@ -28,7 +49,7 @@
   text: "Serving as a reviewer for IROS 2026."
 
 - date: 2026-03-20
-  text: "Received an ACC travel grant to present my paper at the American Control Conference 2026."
+  text: "Received an ACC travel grant to present my paper at ACC 2026."
   url: "https://arxiv.org/abs/2510.02490"
   link: "Paper"
 
