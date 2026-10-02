@@ -14,6 +14,13 @@ redirect_from:
     <h1 id="hero-title">Shaifalee Saxena</h1>
     <p class="hero-role">Ph.D. Student &amp; Graduate Research Assistant</p>
     <p class="lede">I develop robust learning-based control methods for robotics, particle accelerator tuning, and autonomous systems operating under distribution shift.</p>
+    <a class="award-highlight"
+       href="https://openreview.net/forum?id=tI7SWXHlV8"
+       target="_blank"
+       rel="noopener noreferrer">
+      <span class="award-highlight-icon">🏆</span>
+      <span><strong>Best Paper Award</strong> · IROS AIM-Ctrl 2026</span>
+    </a>
     <div class="hero-actions">
       <a class="button primary" href="#research">Explore my research</a>
       <a class="button" href="{{ '/files/Shaifalee_Saxena_CV_030426.pdf' | relative_url }}">Download CV</a>
