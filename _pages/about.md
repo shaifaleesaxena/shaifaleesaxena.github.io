@@ -159,10 +159,10 @@ redirect_from:
         <h3>Awards and support</h3>
         <p>Best Paper Award at IROS AIM-Ctrl 2026, LANL Best Student Award, AOT-IC SPOT Awards, ACC 2026 travel grant, Airbus SPOT Award, Tata Best Performer and Team Award, and ICONS 2018 second-best-paper award.</p>
       </article>
-      <article>
+      <<article>
         <p class="card-label">Engagement</p>
         <h3>Invited talks and programs</h3>
-        <p>Invited speaker at CAARI 2026 for “Bridging Deep Reinforcement Learning and Adaptive Feedback for Time-Varying Systems,” participant in the 2026 Deep Learning for Science Summer School, and invited speaker through the IEEE RAS Technical Education Program.</p>
+        <p>Invited speaker at CAARI 2026 for “Bridging Deep Reinforcement Learning and Adaptive Feedback for Time-Varying Systems,” and participant in the 2026 Deep Learning for Science Summer School.</p>
       </article>
     </div>
   </div>
