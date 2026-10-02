@@ -154,8 +154,16 @@ redirect_from:
     <h2 id="service-title">Service &amp; recognition</h2>
     <div class="service-grid">
       <article><p class="card-label">Peer review</p><h3>Conference reviewer</h3><p>Reviewer for the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026) and the IEEE Conference on Decision and Control (CDC 2026).</p></article>
-      <article><p class="card-label">Recognition</p><h3>Awards and support</h3><p>ACC 2026 travel grant recipient, Airbus SPOT Award recipient, Tata Best Performer and Team Award recipient, and ICONS 2018 second-best-paper awardee.</p></article>
-      <article><p class="card-label">Engagement</p><h3>Talks and programs</h3><p>Participant in the 2026 Deep Learning for Science Summer School and invited speaker on unmanned aerial systems autonomy through the IEEE RAS Technical Education Program.</p></article>
+      <article>
+        <p class="card-label">Recognition</p>
+        <h3>Awards and support</h3>
+        <p>Best Paper Award at IROS AIM-Ctrl 2026, LANL Best Student Award, AOT-IC SPOT Awards, ACC 2026 travel grant, Airbus SPOT Award, Tata Best Performer and Team Award, and ICONS 2018 second-best-paper award.</p>
+      </article>
+      <article>
+        <p class="card-label">Engagement</p>
+        <h3>Invited talks and programs</h3>
+        <p>Invited speaker at CAARI 2026 for “Bridging Deep Reinforcement Learning and Adaptive Feedback for Time-Varying Systems,” participant in the 2026 Deep Learning for Science Summer School, and invited speaker through the IEEE RAS Technical Education Program.</p>
+      </article>
     </div>
   </div>
 </section>
