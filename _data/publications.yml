@@ -2,7 +2,7 @@
   type: "Workshop"
   topic: "Robotics"
   topic_slug: "robotics"
-  title: "Deep Reinforcement Learning for Robotic Manipulation under Distribution Shift with Bounded Extremum Seeking"
+  title: "Planning for Change: Reinforcement Learning Combined with Bounded Extremum Seeking for Robotic Control under Distribution Shift"
   authors: "Shaifalee Saxena, Rafael Fierro, and Alexander Scheinker"
   venue: "IROS AIM-Ctrl 2026"
   paper: "https://openreview.net/forum?id=tI7SWXHlV8"
