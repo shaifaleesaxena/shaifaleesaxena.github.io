@@ -1,21 +1,23 @@
 - year: 2026
   type: "Workshop"
-  topic: "Reinforcement learning"
-  topic_slug: "reinforcement-learning"
-  title: "Mahalanobis-Guided Latent OOD Detection for Hybrid ES-DRL Control in Time-Varying Systems"
-  authors: "Shaifalee Saxena and Alexander Scheinker"
-  venue: "ICML RLxF Workshop 2026"
-  arxiv: "https://arxiv.org/abs/2606.11474"
-  poster: "/files/ICML_RLxF_2026_Poster.pdf"
-
-- year: 2026
-  type: "Preprint"
   topic: "Robotics"
   topic_slug: "robotics"
   title: "Deep Reinforcement Learning for Robotic Manipulation under Distribution Shift with Bounded Extremum Seeking"
   authors: "Shaifalee Saxena, Rafael Fierro, and Alexander Scheinker"
-  venue: "arXiv preprint"
+  venue: "IROS AIM-Ctrl 2026"
+  paper: "https://openreview.net/forum?id=tI7SWXHlV8"
   arxiv: "https://arxiv.org/abs/2604.01142"
+  award: "Best Paper Award"
+
+- year: 2026
+  type: "Workshop"
+  topic: "Reinforcement learning"
+  topic_slug: "reinforcement-learning"
+  title: "Mahalanobis-Guided Latent OOD Detection for Hybrid ES-DRL Control in Time-Varying Systems"
+  authors: "Shaifalee Saxena and Alexander Scheinker"
+  venue: "ICML RLxF 2026"
+  arxiv: "https://arxiv.org/abs/2606.11474"
+  poster: "/files/ICML_RLxF_2026_Poster.pdf"
 
 - year: 2026
   type: "Conference"
@@ -23,5 +25,5 @@
   topic_slug: "reinforcement-learning"
   title: "Improved Robustness of Deep Reinforcement Learning for Control of Time-Varying Systems by Bounded Extremum Seeking"
   authors: "Shaifalee Saxena, Alan Williams, Rafael Fierro, and Alexander Scheinker"
-  venue: "American Control Conference (ACC 2026)"
+  venue: "ACC 2026"
   arxiv: "https://arxiv.org/abs/2510.02490"
